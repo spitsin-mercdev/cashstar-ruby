@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'hashie'
   s.add_dependency 'faraday', '~> 0.8'
   s.add_dependency 'faraday_middleware', '~> 0.8'
-  s.add_dependency 'multi_json', '~> 1.8.0'
+  s.add_dependency 'multi_json', '~> 1.8'
   s.add_dependency 'multi_xml', '~> 0.5.0'
 
   s.add_development_dependency 'rspec', '~> 2.12'
